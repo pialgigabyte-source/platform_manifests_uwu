@@ -7,7 +7,7 @@ We suggest using our Repo fork for source checkouts. Without it, retrying an inc
 We recommend initializing with the release manifests:
 
 ```bash
-repo init --repo-url=https://github.com/UwUniverse/git-repo.git --repo-branch=main --no-repo-verify -u https://github.com/uwuAOSP/platform_vendor_uwu-versions.git -b main --git-lfs
+repo init --repo-url=https://github.com/pialgigabyte-source/platform_manifests_uwu.git --repo-branch=main --no-repo-verify -u https://github.com/pialgigabyte-source/platform_manifests_uwu.git -b main --git-lfs
 ```
 
 Or track our development repositories:
