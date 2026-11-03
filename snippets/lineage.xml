@@ -165,7 +165,7 @@
   <project path="hardware/qcom-caf/sm8850/data-ipa-cfg-mgr" name="LineageOS/android_vendor_qcom_opensource_data-ipa-cfg-mgr" groups="qcom,kaanapali-vendor" revision="lineage-24.0-caf-sm8850" remote="lineageos" />
   <project path="hardware/qcom-caf/sm8850/dataipa" name="LineageOS/android_vendor_qcom_opensource_dataipa" groups="qcom,kaanapali-vendor" revision="lineage-24.0-caf-sm8850" remote="lineageos" />
   <project path="hardware/qcom-caf/sm8850/display/core" name="LineageOS/android_vendor_qcom_opensource_display-core" groups="qcom" revision="lineage-24.0-caf-sm8850" remote="lineageos" />
-  <project path="hardware/qcom-caf/sm8850/display/hal" name="LineageOS/android_hardware_qcom_display" groups="qcom" revision="lineage-24.0-caf-sm8850" remote="lineageos" remote="lineageos" />
+  <project path="hardware/qcom-caf/sm8850/display/hal" name="LineageOS/android_hardware_qcom_display" groups="qcom" revision="lineage-24.0-caf-sm8850" remote="lineageos" />
   <project path="hardware/qcom-caf/sm8850/display/intf" name="LineageOS/android_vendor_qcom_opensource_display-intf" groups="qcom" revision="lineage-24.0-caf-sm8850" remote="lineageos" />
   <project path="hardware/qcom-caf/thermal" name="LineageOS/android_hardware_qcom_thermal" groups="qcom,kaanapali-vendor" remote="lineageos" />
   <project path="hardware/qcom-caf/thermal-legacy-um" name="LineageOS/android_hardware_qcom_thermal" groups="qcom,lanai-vendor" revision="lineage-24.0-legacy-um" remote="lineageos" />
